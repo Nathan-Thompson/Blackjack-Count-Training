@@ -7,8 +7,11 @@ Features to add:
 -Splitting/doubling down--IMPORTANT
 
 -Keep track of count during session
+
 -Optimal bet?
+
 -multiple decks
+
 -web implementation
 
 
