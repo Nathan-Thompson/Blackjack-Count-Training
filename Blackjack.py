@@ -217,7 +217,7 @@ def blackjack(cards, suits, win, winobjects):
     message.setSize(20)
     message.draw(win)
     winobjects.append(message)
-    p3 = Point(742, 251)
+    p3 = Point(742, 255)
     countmsg = Text(p3, '')
     countmsg.setSize(17)
     countmsg.draw(win)
